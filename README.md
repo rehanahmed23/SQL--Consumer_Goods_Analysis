@@ -17,12 +17,29 @@ The project entails comprehensive data analysis and querying techniques applied 
 ### Dataset Description
 
 The dataset utilized in this project pertains to AtliQ Hardwares, encompassing diverse aspects of consumer goods sales, inventory, and related metrics. This dataset serves as the foundation for our analytical exploration, enabling us to derive actionable insights and facilitate informed decision-making processes.
+The dataset consists of multiple relational tables containing information on:
+- **Sales Data**: Transaction records, revenue, profit, and product details.
+- **Inventory Data**: Stock levels, warehouse locations, and replenishment cycles.
+- **Operational Data**: Production metrics, supplier information, and logistics.
 
 ### Project Objectives
 
 1. Utilize SQL queries to address ten specific ad hoc requests related to consumer goods.
 2. Analyze consumer goods sales, inventory, and performance metrics.
 3. Extract meaningful insights to support strategic decision-making within the consumer goods domain.
+
+### Outline
+1: AtliQ Hardware & Problem Statement  
+2: Finance Analytics  
+3: Top Customers, Products, Markets  
+4: Supply Chain Analytics  
+5: Ad hoc Analytics
+
+### Steps Involved
+1. **Database Setup**: Import and configure data into SQL database
+2. **Data Exploration**: Understand dataset characteristics using SQL queries
+3. **Data Processing**: Transform and clean data using SQL
+4. **Analysis & Reporting**: Generate insights through SQL queries and reports
 
 ### Key Insights
 
